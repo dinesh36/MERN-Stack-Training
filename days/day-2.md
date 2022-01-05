@@ -7,7 +7,7 @@
 - [Quotation](https://www.w3schools.com/html/html_quotation_elements.asp)
 - [Comments](https://www.w3schools.com/html/html_comments.asp)
 - [Colors](https://www.w3schools.com/html/html_colors.asp)
-- [Styles](https://www.w3schools.com/html/html_css.asp)
+- [CSS](https://www.w3schools.com/html/html_css.asp)
 
 ## CSS
 - [Colors](https://www.w3schools.com/css/css_colors.asp)
