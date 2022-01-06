@@ -14,12 +14,14 @@
 ## Javascript
 - [Operators](https://www.w3schools.com/js/js_operators.asp)
 
-## Practical Exams 
+## Code Practice Test
+Use the following [codepen link](https://codepen.io/pen/) to do your code. Once done with the code share the link of the codepen.
+Try to log in with your Github account in codepen while saving your code.
 
-### Question 1 - Write the HTML code to generate following output
+### Test 1 - Write the HTML code to generate following output
 ![Question1 Image](./media/day-3/question-1.png "Question1 Image")
 
-### Question 2 - Write the HTML code to generate following output
+### Test 2 - Write the HTML code to generate following output
 ![Question1 Image](./media/day-3/question-2.png "Question2 Image")
 - Registration Form header should be h1
   - Form Text Should be on center
